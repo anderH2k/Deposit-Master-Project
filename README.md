@@ -128,6 +128,7 @@ These additional dashboards enhance the bank’s ability to monitor performance,
 
 To support accountants in efficiently managing and analyzing customer deposits, a comprehensive, user-friendly **Customer Deposit Report Dashboard** has been developed. This tool enables accountants to effortlessly explore data, identify key trends, and extract actionable insights. With intuitive navigation and interactive visualizations, accountants can gain a deeper understanding of customer behavior, deposit growth and detailed account info empowering them to make informed financial decisions with ease.
 
+![Screenshot_14-11-2024_225011_](https://github.com/user-attachments/assets/90daa24a-f7e5-448e-adb4-1bc93e4685a7)
 
 ## Conclusion
 
