@@ -2,6 +2,9 @@
 
 ## Interactive Dashboards: https://app.powerbi.com/groups/me/reports/ee97da9f-311e-4bae-a898-dc0e575916c2?ctid=df8679cd-a80e-45d8-99ac-c83ed7ff95a0&pbi_source=linkShare
 
+## Data Source
+I have no permission to upload data sources because they contain personal, confidential, or proprietary information which is important to protect it.
+
 ## Project Overview
 
 This project addresses the challenges a bank faces in managing and analyzing customer deposit data. The fragmented and unstructured nature of the data hindered the bank's ability to monitor deposit trends, analyze customer behavior, optimize product offerings, manage liquidity risk, and improve customer experience. This project leverages Power BI, PostgreSQL, and data modeling techniques to transform raw deposit data into actionable insights.
