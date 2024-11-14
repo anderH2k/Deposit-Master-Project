@@ -81,6 +81,8 @@ A star schema data model was developed to organize deposit data, with:
 
 Using Power BI, I created an interactive dashboard that visualizes key metrics and trends in customer deposits.
 
+### Main Dashboard
+
 ## Key Insights
 
 ### 1. Account Performance and Growth
