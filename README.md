@@ -79,9 +79,11 @@ A star schema data model was developed to organize deposit data, with:
 
 ### Data Analysis & Visualization
 
-Using Power BI, I created an interactive dashboard that visualizes key metrics and trends in customer deposits.
+Using Power BI, I created interactive dashboards that visualizes key metrics and trends in customer deposits.
 
 ### Main Dashboard
+
+![Screenshot_14-11-2024_223521_](https://github.com/user-attachments/assets/c8f9fabd-a37d-4c35-915f-a83eadb50597)
 
 ## Key Insights
 
@@ -103,11 +105,29 @@ Using Power BI, I created an interactive dashboard that visualizes key metrics a
 - **Current Accounts:** Lowest in count but hold significant deposits, likely from high-value customers or businesses.
 - **Fixed Deposit & Call Accounts:** Significant contributors to total deposits due to likely favorable terms or higher interest rates.
 
+## Additional Dashboard Features
+
+In addition to the main dashboard, I developed a comprehensive trend analysis to gain deeper insights into account and deposit dynamics over time. This includes:
+
+1. **Monthly Trends Analysis**: A detailed view of how the number of accounts and total deposit values fluctuate across financial months. This helps highlight seasonal patterns and significant changes over time.
+
+2. **Account Types and Regional Comparison**: Analysis of key performance indicators (KPIs) such as account count and deposit values, broken down by account types and regions. This reveals trends and behaviors specific to various customer segments and geographic areas, enabling more targeted strategies.
+
+3. **Branch Performance Analysis**: A focused assessment of branch activity across the country, identifying variations in deposit behavior and account activity by branch. This granular analysis allows for branch-specific insights and assists in recognizing high- and low-performing locations.
+
+These additional dashboards enhance the bank’s ability to monitor performance, understand customer behavior, and identify areas for improvement at both the macro and micro levels.
+
 ## Technologies Used
 
 - **Power BI**: For data visualization and dashboard development.
 - **PostgreSQL & pgAdmin**: For data storage, cleaning, and transformation.
 - **SQL**: For efficient data extraction and transformation.
+
+
+## Customer Deposit Report Dashboard for Accountants
+
+To support accountants in efficiently managing and analyzing customer deposits, a comprehensive, user-friendly **Customer Deposit Report Dashboard** has been developed. This tool enables accountants to effortlessly explore data, identify key trends, and extract actionable insights. With intuitive navigation and interactive visualizations, accountants can gain a deeper understanding of customer behavior, deposit growth and detailed account info empowering them to make informed financial decisions with ease.
+
 
 ## Conclusion
 
